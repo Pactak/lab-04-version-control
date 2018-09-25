@@ -160,7 +160,7 @@ hello.sh
 
 It should work now!  What is the output?
 ----------
-
+hi there
 
 ==========
 18.  Save this file in the repository that you created from parts 1 and 2.
